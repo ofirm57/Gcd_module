@@ -26,6 +26,12 @@ This repository contains an implementation of the **Greatest Common Divisor (GCD
   where `k` is the number of times both were divided by 2.
 
 ---
+## 📊 GCD Algorithm Diagram
+
+This flowchart illustrates the binary GCD algorithm implemented in this project:
+
+![GCD Flowchart](gcd_diagram.png)
+
 
 ## 🧪 Testbench Highlights
 
